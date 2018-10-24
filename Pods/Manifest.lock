@@ -1,0 +1,71 @@
+PODS:
+  - Alamofire (4.7.3)
+  - Crashlytics (3.10.7):
+    - Fabric (~> 1.7.11)
+  - Fabric (1.7.11)
+  - FLEX (2.4.0)
+  - IQKeyboardManagerSwift (6.1.1)
+  - MarqueeLabel/Swift (3.1.6)
+  - MBProgressHUD (1.1.0)
+  - NotificationBannerSwift (1.6.3):
+    - MarqueeLabel/Swift
+    - SnapKit (~> 4.0)
+  - ObjcExceptionBridging (1.0.1):
+    - ObjcExceptionBridging/ObjcExceptionBridging (= 1.0.1)
+  - ObjcExceptionBridging/ObjcExceptionBridging (1.0.1)
+  - SDWebImage (4.4.2):
+    - SDWebImage/Core (= 4.4.2)
+  - SDWebImage/Core (4.4.2)
+  - SnapKit (4.0.0)
+  - SwiftyJSON (4.1.0)
+  - XCGLogger (6.0.4):
+    - XCGLogger/Core (= 6.0.4)
+  - XCGLogger/Core (6.0.4):
+    - ObjcExceptionBridging
+
+DEPENDENCIES:
+  - Alamofire
+  - Crashlytics
+  - Fabric
+  - FLEX
+  - IQKeyboardManagerSwift
+  - MBProgressHUD
+  - NotificationBannerSwift
+  - SDWebImage
+  - SwiftyJSON
+  - XCGLogger
+
+SPEC REPOS:
+  https://github.com/cocoapods/specs.git:
+    - Alamofire
+    - Crashlytics
+    - Fabric
+    - FLEX
+    - IQKeyboardManagerSwift
+    - MarqueeLabel
+    - MBProgressHUD
+    - NotificationBannerSwift
+    - ObjcExceptionBridging
+    - SDWebImage
+    - SnapKit
+    - SwiftyJSON
+    - XCGLogger
+
+SPEC CHECKSUMS:
+  Alamofire: c7287b6e5d7da964a70935e5db17046b7fde6568
+  Crashlytics: ccaac42660eb9351b9960c0d66106b0bcf99f4fa
+  Fabric: f233c9492b3bbc1f04e3882986740f7988a58edb
+  FLEX: bd1a39e55b56bb413b6f1b34b3c10a0dc44ef079
+  IQKeyboardManagerSwift: 977affaeb4d6e971975c7790a6850f31d38f1207
+  MarqueeLabel: 0c41f08ef5773e29c0f71064a8fa788a2fd8b365
+  MBProgressHUD: e7baa36a220447d8aeb12769bf0585582f3866d9
+  NotificationBannerSwift: b231e4c3244848ef300e1c53ce027b9756b9b06f
+  ObjcExceptionBridging: c30e00eb3700467e695faeea30e26e18bd445001
+  SDWebImage: 624d6e296c69b244bcede364c72ae0430ac14681
+  SnapKit: a42d492c16e80209130a3379f73596c3454b7694
+  SwiftyJSON: c29297daf073d2aa016295d5809cdd68045c39b3
+  XCGLogger: 4fc1bc0bdd5828cb8dc8da7a843536cda1bea8f3
+
+PODFILE CHECKSUM: 73c258e8efa225473ddb58bc189e5fb489c47cf5
+
+COCOAPODS: 1.5.2
